@@ -1,0 +1,106 @@
+#header {
+	font-family: 'Julee', cursive;
+	font-size: 55px;
+	text-align: center;
+	color: gold;
+	line-height: 100px;
+	height: 225px;
+	margin-top: 20px;	
+}
+
+
+
+body {
+	background-image: url("../images/china.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#header h6 {
+	font-style: italic;
+	color: purple;
+	margin-top: -30px;
+
+}
+	      
+span {
+	font-family: 'Butcherman', cursive;
+	font-size: 90px;
+	color: lime;
+	margin-top: 0px;
+	padding-top: 0px;
+}
+
+#monsters {
+	width: 970px;
+	height: 325px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.mAction {
+	height: 300px;
+	width: 200px;
+	display: inline-block;
+	margin: 15px;
+	vertical-align: top;
+	align-content: center;
+	
+}
+
+#monster1 {
+	height: 175px;
+	width: auto;
+	margin-left: 90px;
+	align-content: middle;
+}
+
+#monster2 {
+	width: 195px;
+	height: auto;
+	margin-top: 55px;
+	margin-left: 165px;
+}
+
+#monster3 {
+	height: 175px;
+	width: auto;
+	margin-left: 255px;
+	align-content: middle;
+}
+
+#monster4 {
+	height: 175px;
+	width: auto;
+	margin-left: 345px;
+	align-content: middle;
+}
+
+#cookie1 {
+	height: 100px;
+	width: auto;
+	margin-left: 110px;
+}
+
+#cookie2 {
+	height: 100px;
+	width: auto;
+	margin-left: 205px;
+}
+
+#cookie3{
+	height: 100px;
+	width: auto;
+	margin-left: 285px;
+}
+
+#cookie4 {
+	height: 100px;
+	width: auto;
+	margin-left: 345px;
+}
